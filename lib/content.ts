@@ -5,7 +5,7 @@ export const site = {
   location: "Lahore, Pakistan",
   email: "dev-zohaib@proton.me",
   website: "https://zohaib.is-a.dev",
-  github: "https://github.com/napstar-",
+  github: "https://github.com/napstar-420",
   /** Add `public/resume.pdf` — link used in Contact */
   resumePath: "/resume.pdf",
 };
