@@ -43,7 +43,7 @@ export function HeroSection() {
               View my work
             </Link>
             <Link
-              href="/resume.pdf"
+              href="/zohaib-resume.pdf"
               className="inline-flex items-center gap-1 text-body-sm font-medium text-secondary transition-colors duration-150 ease-in-out hover:text-primary focus-visible:rounded-md focus-visible:outline-none focus-visible:ring-[3px] focus-visible:ring-accent"
             >
               Download CV
