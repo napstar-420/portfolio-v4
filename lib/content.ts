@@ -6,8 +6,8 @@ export const site = {
   email: "dev-zohaib@proton.me",
   website: "https://zohaib.is-a.dev",
   github: "https://github.com/napstar-420",
-  /** Add `public/resume.pdf` — link used in Contact */
-  resumePath: "/resume.pdf",
+  /** Served from `public/zohaib-resume.pdf` — link used in Contact */
+  resumePath: "/zohaib-resume.pdf",
 };
 
 export const hero = {
